@@ -3,8 +3,7 @@
 /**
  *
  *  main - Entry point
- *
- * 
+ *  Description: Where the code gets initialised.
  *
  *  Return: Always 0 (Correct)
  *
