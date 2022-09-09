@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /*
- * Declare function with main
- * Returns (0) 
+ * main - entry point 
+ * Returns (0) after puts is executed
+ *
  */
+
 int main(void)
 
 {puts("\"Programming is like building a multilingual puzzle");
