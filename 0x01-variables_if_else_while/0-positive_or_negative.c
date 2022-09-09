@@ -12,7 +12,7 @@
  *
  *   *
  *
- *    * Return: Always 0 (Seccess/correct)
+ *    * Return: Always 0 (Correct)
  *
  */
 
