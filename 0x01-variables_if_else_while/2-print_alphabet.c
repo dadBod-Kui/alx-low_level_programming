@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-/*
+/**
  *
  *  * main - Entry point
  *
- *   *
+ * 
  *
- *    * Return: Always 0 (Seccess/correct)
+ *  * Return: Always 0 (Correct)
  *
  */
 
